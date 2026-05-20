@@ -3,8 +3,8 @@ import os
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-ADMIN_ID = int(os.getenv("ADMIN_ID"))
+BOT_TOKEN = 8877136278:AAEaTFZ1t14Fc36s8XiSHs_iD2UUMTbrPbc
+ADMIN_ID = 5609127466
 
 LEAGUES = [
     "EDGE base",
